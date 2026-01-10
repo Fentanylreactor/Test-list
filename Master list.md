@@ -12,11 +12,6 @@ Spices up the cataclysm with super soldiers, more bionics, a lot of new weapons 
 One of the three big magic mods of BN. a few dozen spells, arcane trinkets that do a wide variety of useful things, etc. Also adds points of interest to explore, new enemies and magic-tech fusion items like CBMs. Also has 3 martial arts, some melee weapons and consumable potions. 
 [Professions][Vehicles][Locations][CBMs][Tools][Mutations][Magics][Crafting and Recipes][Consumables][Armors][Martial Arts][Enemies][Melee Weapons]
 
-
-[Essence 2200 and its add-ons](https://github.com/RoyalFox2140/Essence2200)
-A massive [Overhaul] mod that aims to rebalance and reshape the experience of the game, with optional ad ons that can further increase the difficulty or change the experience of the game.
-[Vehicles][Locations][Professions][Tools] [Mutations][Consumables][Crafting and Recipes][Magics][Guns][Enemies] 
-
 [Project Pack Rat](https://github.com/NobleJake/ProjectPackRat)
 A sci-fi addition to the base game, with craftable mechs, power armors, a wide variety of manufacturing tools, and vehicle parts. Also includes crafting recipes for every vanilla trait (some of which might require threshold!) 
 [Vehicles][Cosmetics] [Tools] [Mutations][Crafting and Recipes][Consumables][Guns] [Armors]
